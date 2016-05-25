@@ -1,0 +1,18 @@
+/*SAGE Network.com | pagina de gamer's*/
+/*TEAM*/
+	Creator: Ronald Meneses Almendras
+	Contact: 
+	Twitter: @Ron Meneses
+	From: Cochabamba, Bolivia.
+/*IN MEMORIAL*/
+	Family
+
+/* THANKS*/
+	Family
+	
+/*SITE*/
+	Last update: 2015/09/29
+	Language: Espanol
+	Standars: HTML5, CSS3, JavaScript
+	Components: jQuery
+	Software: SublimeText3,Notepad++, Adobe Photoshop
